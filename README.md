@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chef's Hat RL Agent — University Assignment
 
 Reinforcement learning agent for the Chef's Hat Gym multi-agent card game environment.
@@ -70,3 +71,6 @@ python experiments.py --quick # Quick test (fewer matches)
 | 3 | DQN + dense shaping | | |
 
 See `REPORT.md` for full design, implementation details, and critical analysis.
+=======
+# Reinforcement-learning
+>>>>>>> 295538e693116b987d9589f4eef7a65caa781f85
