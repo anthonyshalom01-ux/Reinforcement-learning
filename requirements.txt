@@ -1,0 +1,8 @@
+# Chef's Hat RL Assignment Dependencies
+# Install: pip install -r requirements.txt
+
+chefshatgym>=3.0.0
+flask>=2.0.0
+numpy>=1.21.0
+torch>=1.10.0
+matplotlib>=3.5.0
